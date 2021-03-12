@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - yumao
+  - BK
+  - jian
+  - hua
+  - bing
+  - ma
+  - banzhuan
+  - tu
+  - mu
+  - jin
+  - shui
+  - huo
+  - eye
+  - biao
+  - beijing2
+  - long
+  - xiyi
+  - keepout
+  - musics
+  - GameManager
+  - TEXT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bk
+    uniqueID: 1482252035
+    locked: 0
+  - name: player
+    uniqueID: 1795943421
+    locked: 0
